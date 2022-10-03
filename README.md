@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently studying on Wintec
 - 🌱 I’m currently learning IT
+- 😄 I'm currently Software Tester
 <!--
 **ArinaLou/ArinaLou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
