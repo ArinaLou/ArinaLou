@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying: I'm an undergraduate IT student at the Waikato Institute of Technology.
+- 🔭I'm an undergraduate IT student at the Waikato Institute of Technology.
 - 🌱 I speak: Chinese.
 - 😄 My current role: I'm working as a Software Tester.
 - 🎵 Interests: I enjoy Music and Sports.
