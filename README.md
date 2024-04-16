@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying on Wintec
-- 🌱 I’m currently learning IT
-- 😄 I'm currently Software Tester
--  I speak Chinese
--  I like Music and Sports
--  I am kindly
--  I would like do Software or any job about game Developer
--  I know the pargram code of software (HTML, CSS, Java, C#)
--  How to reach me: loumenting0205@gmail.com
+- 🔭 I’m currently studying: I'm an undergraduate IT student at the Waikato Institute of Technology.
+- 🌱 I speak: Chinese.
+- 😄 My current role: I'm working as a Software Tester.
+- 🎵 Interests: I enjoy Music and Sports.
+- 🤗 Personality: I am kind and approachable.
+- 🎮 Career aspirations: I am interested in pursuing a career in Software Development or Game Development.
+- 💻 Skills: I am proficient in HTML, CSS, Java, C#, and Python.
+- 📫 How to reach me: Email me at loumenting0205@gmail.com
+
+-  
 <!--
 **ArinaLou/ArinaLou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
