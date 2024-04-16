@@ -2,7 +2,7 @@
 
 - 🔭I'm an undergraduate IT student at the Waikato Institute of Technology.
 - 🌱 I speak: Chinese.
-- 😄 My current role: I'm working as a Software Tester.
+- ⚙️ Experience in school projects: I have served as a software and development tester, web developer, and game developer in my school group projects.
 - 🎵 Interests: I enjoy Music and Sports.
 - 🤗 Personality: I am kind and approachable.
 - 🎮 Career aspirations: I am interested in pursuing a career in Software Development or Game Development.
